@@ -1,0 +1,7 @@
+Mobile,Realme,C3,NA,Tuesday,1,67889.07
+Laptop,HP,Ryzen7,NA,Monday,1,80580
+Mobile,Galaxy,A52S,NA,Monday,1,77899.05
+Mobile,Realme,C3,NA,Tuesday,1,67889.07
+Laptop,Dell,E5440,NA,Tuesday,1,48169.75
+Cosmatics,MakeUp(Venzen),NA,,Tuesday,2,6000
+Mobile,Galaxy,A52S,NA,Monday,1,77899.05

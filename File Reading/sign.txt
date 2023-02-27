@@ -1,0 +1,12 @@
+Shahbaz,123,Customer
+Umar,123,Customer
+Shahbaz,123,Customer
+Shahbaz,123,Admin
+Shahbaz,123,Admin
+Shahbaz,123,Customer
+Shahbaz,123,Customer
+Shahbaz,123,Admin
+Umar,123,Customer
+Muhammad Shahbaz Rafique,43ILU,Customer
+Umar,123,Customer
+Shoaib,123,Customer

@@ -1,0 +1,2 @@
+0,Laptop,Lenovo,N4020,NA,Monday,1,68399
+5,Mobile,Galaxy,A52S,NA,Monday,2,155798

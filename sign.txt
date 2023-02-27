@@ -1,0 +1,6 @@
+Shahbaz,123,Customer
+SHAHBAZ,123,Admin
+Subhan,123,Customer
+Umar,234,Customer
+Saad,123,Customer
+Shoaib,123,Customer
